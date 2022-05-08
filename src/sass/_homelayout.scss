@@ -1,0 +1,119 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  video,img{
+    max-width:100%
+  }
+  footer{
+    background:#ffc6e8;
+    height:100px;
+  }
+  footer li {
+    list-style: none;
+    text-align: left;
+    padding: 10px;
+    position:relative;
+    top:20px;
+   }
+  
+  .w50{
+  width:50%;
+  
+  }
+  /* navigation height and background color*/
+  header{
+    background: #ffffff;
+  }
+  .navigation{
+    height: 120px;
+    background: #ffffff;
+  }
+  /* logo setting */
+  .brand {
+    position: absolute;
+    padding-left: 20px;
+    float: left;
+    line-height: 120px;
+    text-transform: uppercase;
+    font-size: 1.4em;
+  }
+  
+  .brand a,
+  .brand a:visited {
+    color:#FFC6E8;
+    text-decoration: none;
+  }
+  
+  /* logo end */
+  .p40{
+    padding:0 40px;
+    
+  }
+  .container{
+    /*display:flex;*/
+    max-width:1400px;
+    padding:40px;
+    justify-content: center;
+    /*flex-direction:row;*/
+   /*flex-wrap: wrap;*/
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    /*justify-content: center;*/
+      align-items: center;
+    /*padding:40px;*/
+  }
+  .card{
+    padding:10px;
+    
+  }
+  .hero{
+  max-width:100%;
+  background-color:#EEC7DF;
+  font-size:20px;
+  display:flex;
+  flex-direction:row;
+  flex-wrap: nowrap;
+  }
+  .herotext{
+  display:center;
+  justify-content:center;
+  padding:10px 40px 10px;
+  }
+  .video{
+    float:left;
+    margin:10px;
+    padding:20px 20px 40px;
+  }
+  
+  .lesson{
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding:20px;
+  }
+  .lessoncard{
+    padding:10px;
+    flex-direction:column;
+  }
+  
+  .search{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding:40px;
+  }
+  .btn{
+    color:#ffffff;
+    background:pink;
+    border:none;
+    width:80px; height: 40px;
+     border-radius:5px;
+  }
+   input {
+              font-size:20px;
+          }
+  
+  txtinp {
+              width: 100%;
+          }
+          
