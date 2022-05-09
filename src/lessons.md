@@ -9,7 +9,7 @@ pageClass: home
   <div class="pastry-lessons">
     <h1>START YOUR LESSON</h1>
   </div>
-<article class="lesson">
+<article class="lessons">
 <div class="monthly">  
   <section>
         <div class="lessoncard">
