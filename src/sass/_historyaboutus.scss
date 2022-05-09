@@ -1,0 +1,64 @@
+img{
+    width: auto; 
+   height: auto;
+   max-width: 100%; 
+ 
+ }
+ .whoweare{
+  display: block;
+   text-align:center;
+   padding:0 20%;
+ }
+ .aboutus-card{
+   display: grid;
+   grid-gap: 1rem;
+   grid-template-columns:1fr;
+   text-align:center;
+   padding:0 15%;
+ }
+ .person-card{
+   background-color: silver ;
+   border-radius: 0.8rem;
+   overflow: hidden;
+ }
+ .person-card-img {
+   display: block;
+   width: 100%;
+ }
+ .person-card-content{
+   padding: 0 40px 20px 40px;
+ }
+ }
+ @media screen and (min-width: 500px){
+   .aboutus-card{
+     grid-template-columns: repeat(3, 1fr);
+     padding:0 10%;
+   }
+ }
+ 
+ @media screen and (min-width: 1200px){
+   .aboutus-card{
+     grid-template-columns: repeat(3, 1fr);
+     padding:0 15%;
+   }
+ }
+ .history{
+   display: block;
+   text-align:left;
+   padding:0 5%; 
+ }
+ .history-title{
+   display: block;
+   text-align:center;
+ }
+ @media screen and (min-width: 500px){
+   .history{
+     padding:0 10%;
+   }
+ }
+ 
+ @media screen and (min-width: 1200px){
+   .history{
+     padding:0 20%;
+   }
+ }
