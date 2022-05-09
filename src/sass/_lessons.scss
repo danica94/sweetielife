@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.yearly{
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding:20px;
+}
+
+.monthly{
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding:20px;
+}
+
+.lessoncard{
+    padding:10px;
+    flex-direction:column;
+  }
