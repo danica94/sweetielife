@@ -87,9 +87,9 @@ padding:40px;
   transform: rotate(-45deg);
 }
 
-.container {
+.home_container {
   max-width: 1200px;
-  margin: 0 auto;
+  /*margin: 0 auto;*/
   display: grid;
   grid-gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));  
@@ -97,7 +97,7 @@ padding:40px;
 }
 .lesson{
   display: grid;
-  grid-gap: 1rem;
+  /*grid-gap: 1rem;*/
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));  
   justify-content:center;
 }

@@ -1,6 +1,10 @@
-html, body {
+html,body {
     height: 100%;
     width: 100%;
+   
+  }
+  body{
+   
   }
   video,img{
     max-width:100%
@@ -21,50 +25,32 @@ html, body {
   width:50%;
   
   }
-  /* navigation height and background color*/
-  header{
-    background: #ffffff;
-  }
-  .navigation{
-    height: 120px;
-    background: #ffffff;
-  }
-  /* logo setting */
-  .brand {
-    position: absolute;
-    padding-left: 20px;
-    float: left;
-    line-height: 120px;
-    text-transform: uppercase;
-    font-size: 1.4em;
-  }
-  
-  .brand a,
-  .brand a:visited {
-    color:#FFC6E8;
-    text-decoration: none;
-  }
-  
+ 
   /* logo end */
   .p40{
     padding:0 40px;
     
   }
   .container{
-    /*display:flex;*/
-    max-width:1400px;
-    padding:40px;
+    max-width: 1400px;
+    margin: 0 auto;
+
+  }
+  .title{
+   padding:0 40px;
+   justify-content: left;
+  }
+  .home_container{
+    padding:0 40px;
     justify-content: center;
-    /*flex-direction:row;*/
-   /*flex-wrap: wrap;*/
     display:grid;
     grid-template-columns: repeat(3, 1fr);
-    /*justify-content: center;*/
-      align-items: center;
-    /*padding:40px;*/
+    align-items: center;
+    grid-gap:auto;
+    
   }
   .card{
-    padding:10px;
+    /*padding:10px;*/
     
   }
   .hero{
@@ -87,12 +73,14 @@ html, body {
   }
   
   .lesson{
+    margin:0 auto;
     display:grid;
+    grid-gap: 10px;
     grid-template-columns: repeat(2, 1fr);
-    padding:20px;
+    padding:40px;
   }
   .lessoncard{
-    padding:10px;
+    /*padding:10px;*/
     flex-direction:column;
   }
   
