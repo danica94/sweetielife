@@ -8,7 +8,7 @@ pageClass: home
 <body>
   <article class="hero">
    <div class="video">
-      <img src="https://place-hold.it/650x450.jpg" alt="video">
+      <img src="https://place-hold.it/700x500.jpg" alt="video">
     </div>
     <div class="herotext w50">
       <h1>Tittle</h1>
@@ -28,9 +28,11 @@ pageClass: home
 				</form>
   </div>-->
  
-  <section>
+  <section class="container">
+     <div class="title">
      <h1 class="p40">Category</h1>
-    <div class="container">
+     </div>
+      <div class="home_container" >
       <div class="card">
         <h2>title</h2>
         <img src="https://place-hold.it/400x400.jpg" alt="card1">
@@ -57,10 +59,11 @@ pageClass: home
       </div>
       </div>
 
+
   </section>
 
-  <section>
-    <h1>Lesson</h1>
+  <section class="container">
+    <h1 class="title">Lesson</h1>
     <div class="lesson">
       <div class="lessoncard">
       <img src="https://place-hold.it/600x450.jpg" alt="card1">
