@@ -7,7 +7,7 @@ pageClass: home
 <main>
   <body>
   <section class="recipeherobanner">
-    <img src="/images/Macaron1.jpg" alt="img">
+    <img src="/images/Macarons1.jpg" alt="img">
     <div class="recipeheretext w50">
     <h1> Marcaron</h1>
     <p>This is the quintessential macaron (NOT macaroon) recipe. I am a baker's apprentice, and after much trial and error, we (the baker and I) finally perfected the technique. We decided to share with you all. Pipe your choice of filling on a cookie and sandwich another cookie on top. These are like cloud cookie sandwiches and are delicious if done correctly. If you want to do it the super-easy way, just fill with your favorite flavor of frosting. Enjoy!</p>
@@ -23,7 +23,7 @@ pageClass: home
       <p>1 cup finely ground almonds</p>
     </div>
     <div class="recipeimg">
-      <img src="/images/Macaron2.jpg" alt="Macaron">
+      <img src="/images/Macarons2.jpg" alt="Macaron">
     </div>
     
   </section>
