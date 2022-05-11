@@ -46,25 +46,21 @@ pageClass: home
       </div>
       <div class="steplayout">
        <h3 class="w30" >Step 2</h3>
-       <p class="w50">Beat egg whites in the bowl of a stand mixer fitted with a whisk attachment until whites are foamy; beat in white sugar and continue beating until egg whites are glossy, fluffy, and hold soft peaks. Sift confectioners' sugar and ground almonds in a separate bowl and quickly fold the almond mixture into the egg whites, about 30 strokes.</p>
+       <p class="w50">In a medium saucepan, combine 1/2 cup butter and 1 cup water. Bring to a boil, stirring until butter melts completely. Reduce heat to low, and add flour and salt. Stir vigorously until mixture leaves the sides of the pan and begins to form a stiff ball. Remove from heat. Add eggs, one at a time, beating well to incorporate completely after each addition. With a spoon or a pastry bag fitted with a No. 10, or larger, tip, spoon or pipe dough onto cookie sheet in 1 1/2 x 4 inch strips.</p>
       </div>
       <div class="steplayout">
        <h3 class="w30">Step 3</h3>
-       <p class="w50">Spoon a small amount of batter into a plastic bag with a small corner cut off and pipe a test disk of batter, about 1 1/2 inches in diameter, onto prepared baking sheet. If the disk of batter holds a peak instead of flattening immediately, gently fold the batter a few more times and retest.</p>
+       <p class="w50">Bake 15 minutes in the preheated oven, then reduce heat to 325 degrees F (165 degrees C) and bake 20 minutes more, until hollow sounding when lightly tapped on the bottom. Cool completely on a wire rack.</p>
       </div>
       <div class="steplayout">
          <h3 class="w30">Step 4</h3>
-         <p class="w50">When batter is mixed enough to flatten immediately into an even disk, spoon into a pastry bag fitted with a plain round tip. Pipe the batter onto the baking sheet in rounds, leaving space between the disks. Let the piped cookies stand out at room temperature until they form a hard skin on top, about 1 hour.</p>
+         <p class="w50">For the filling, combine pudding mix and milk in medium bowl according to package directions. In a separate bowl, beat the cream with an electric mixer until soft peaks form. Beat in 1/4 cup confectioners' sugar and 1 teaspoon vanilla. Fold whipped cream into pudding. Cut tops off of cooled pastry shells with a sharp knife. Fill shells with pudding mixture and replace tops.</p>
         </div>
       <div class="steplayout">
           <h3 class="w30">Step 5</h3>
-          <p class="w70">Preheat oven to 285 degrees F (140 degrees C).</p>
+          <p class="w70">For the icing, melt the chocolate and 2 tablespoons butter in a medium saucepan over low heat. Stir in 1 cup confectioners' sugar and 1 teaspoon vanilla. Stir in hot water, one tablespoon at a time, until icing is smooth and has reached desired consistency. Remove from heat, cool slightly, and drizzle over filled eclairs. Refrigerate until serving.</p>
       </div>
-      <div class="steplayout">
-       <h3 class="w30">Step 6</h3>
-       <p class="w70">Bake cookies until set but not browned, about 10 minutes; let cookies cool completely before filling.</p>
-       </div>
-    </section>
+      </section>
   
   </body>
 </main>
