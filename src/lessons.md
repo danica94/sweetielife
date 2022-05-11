@@ -12,7 +12,7 @@ pageClass: home
 <article class="lessons">
 <div class="monthly">  
   <section>
-        <div class="lessoncard">
+        <div class="lessoncard1">
       <img src="https://place-hold.it/600x450.jpg" alt="card1">
         </div>
     <div class="monthlylesson">
@@ -28,7 +28,7 @@ pageClass: home
 
 <div class="yearly">  
   <section>
-        <div class="lessoncard">
+        <div class="lessoncard2">
       <img src="https://place-hold.it/600x450.jpg" alt="card1">
         </div>
     <div class="yearlylesson">
