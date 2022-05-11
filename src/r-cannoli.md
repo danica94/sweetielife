@@ -9,7 +9,7 @@ pageClass: home
   <section class="recipeherobanner">
     <img src="https://place-hold.it/800x500.jpg" alt="marcaron page">
     <div class="recipeheretext w50">
-    <h1> Croissants</h1>
+    <h1> Cannoli</h1>
     <p>Ana and Lydia's cannoli, recipe invented on July 31st, 2005. I spent a lot of time looking for a good recipe for cannoli shells and filling. Since no two were alike, and since instructions were a bit sketchy, I worked with a friend to come up with a good recipe, including some tips that we came up with along the way. Special equipment is needed such as cannoli tubes, a pasta machine and a pastry bag to help make these cannoli come out just like the ones at Italian restaurants and bakeries. Start with 1/2 cup of confectioners' sugar, and then add more to taste.</p>
     </div>
   </section>
