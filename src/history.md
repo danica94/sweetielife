@@ -1,18 +1,3 @@
-
-<main>
-  <h1>PASTRY</h1>
-     <div class="history-image">
-      <img src="https://place-hold.it/550x450.jpg" alt="img">
-    </div>
-<div class="history">   
-      <h2>History</h2>
-      <p>The European tradition of pastry-making is often traced back to the shortcrust era of flaky doughs that were in use throughout the Mediterranean in ancient times. In the ancient Mediterranean, the Romans, Greeks, and Phoenicians all had filo-style pastries in their culinary traditions. In the plays of Aristophanes, written in the 5th century BC, there is mention of sweetmeats, including small pastries filled with fruit. Roman cuisine used flour, oil, and water to make pastries that were used to cover meats and fowls during baking in order to keep in the juices, but the pastry was not meant to be eaten. A pastry that was meant to be eaten was a richer pastry that was made into small pastries containing eggs or little birds and that were often served at banquets. Greeks and Romans both struggled in making a good pastry because they used oil in the cooking process, and oil causes the pastry to lose its stiffness.
-
-In the medieval cuisine of Northern Europe, pastry chefs were able to produce nice, stiff pastries because they cooked with shortening and butter. Some incomplete lists of ingredients have been found in medieval cookbooks, but no full, detailed versions. There were stiff, empty pastries called coffins or 'huff paste', that were eaten by servants only and included an egg yolk glaze to help make them more enjoyable to consume. Medieval pastries also included small tarts to add richness.
-
-It was not until about the mid-16th century that actual pastry recipes began appearing.[19][21] These recipes were adopted and adapted over time in various European countries, resulting in the myriad pastry traditions known to the region, from Portuguese "pastéis de nata" in the west to Russian "pirozhki" in the east. The use of chocolate in pastry-making in the west, so commonplace today, arose only after Spanish and Portuguese traders brought chocolate to Europe from the New World starting in the 16th century. Many culinary historians consider French pastry chef Antonin Carême (1784–1833) to have been the first great master of pastry making in modern times.
-
-=======
 ---
 title: History
 layout: base.njk
@@ -24,7 +9,7 @@ pageClass: home
   <div class="history-title">
     <h1>PASTRY</h1>
      <div class="history-image">
-      <img src="https://place-hold.it/550x450.jpg" alt="img">
+      <img src="/images/pastery.jpg" alt="img">
     </div>
   </div>
 <article class="history">

@@ -7,7 +7,7 @@ pageClass: home
 <main>
   <body>
   <section class="recipeherobanner">
-    <img src="https://place-hold.it/800x500.jpg" alt="marcaron page">
+    <img src="/images/Croissant1.jpg" alt="marcaron page">
     <div class="recipeheretext w50">
     <h1> Croissants</h1>
     <p>Croissants is a buttery, flaky, French viennoiserie pastry inspired by the shape of the Austrian kipferl but using the French yeast-leavened laminated dough.[2] Croissants are named for their historical crescent shape, the dough is layered with butter, rolled and folded several times in succession, then rolled into a thin sheet, in a technique called laminating. The process results in a layered, flaky texture, similar to a puff pastry.</p>
@@ -28,7 +28,7 @@ pageClass: home
       <p>1 egg, beaten</p>
     </div>
     <div class="recipeimg">
-      <img src="https://place-hold.it/800x500.jpg" alt="Macaron">
+      <img src="/images/Croissant2.jpg" alt="Macaron">
     </div>
     
   </section>

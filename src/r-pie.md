@@ -7,7 +7,7 @@ pageClass: home
 <main>
   <body>
   <section class="recipeherobanner">
-    <img src="https://place-hold.it/800x500.jpg" alt="marcaron page">
+    <img src="/images/pie1.jpg" alt="marcaron page">
     <div class="recipeheretext w50">
     <h1>Simple Pumpkin Pie</h1>
     <p>Pumpkin pie is a dessert pie with a spiced, pumpkin-based custard filling. The pumpkin and pumpkin pie are both a symbol of harvest time,and pumpkin pie is generally eaten during the fall and early winter. In the United States and Canada it is usually prepared for Thanksgiving, Christmas, and other occasions when pumpkin is in season.</p>
@@ -24,7 +24,7 @@ pageClass: home
       <p>1 (9 inch) unbaked pie crust</p>
     </div>
     <div class="recipeimg">
-      <img src="https://place-hold.it/800x500.jpg" alt="Macaron">
+      <img src="/images/pie2.jpg" alt="Macaron">
     </div>
     
   </section>

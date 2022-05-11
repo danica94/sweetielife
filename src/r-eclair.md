@@ -7,7 +7,7 @@ pageClass: home
 <main>
   <body>
   <section class="recipeherobanner">
-    <img src="https://place-hold.it/800x500.jpg" alt="marcaron page">
+    <img src="/images/eclair1.jpg" alt="marcaron page">
     <div class="recipeheretext w50">
     <h1> Eclair</h1>
     <p> Eclair is a pastry made with choux dough filled with a cream and topped with a flavored icing. The dough, which is the same as that used for profiterole, is typically piped into an oblong shape with a pastry bag and baked until it is crisp and hollow inside. Once cool, the pastry is filled with custard (crème pâtissière), whipped cream or chiboust cream, then iced with fondant icing.[3] Other fillings include pistachio- and rum-flavoured custard, fruit-flavoured fillings, or chestnut purée. The icing is sometimes caramel, in which case the dessert may be called a bâton de Jacob.[4] A similar pastry in a round rather than oblong shape is called a Religieuse.</p>
@@ -34,7 +34,7 @@ pageClass: home
       <p>3 tablespoons hot water</p>
     </div>
     <div class="recipeimg">
-      <img src="https://place-hold.it/800x500.jpg" alt="Eclair">
+      <img src="/images/eclair2.jpg" alt="Eclair">
     </div>
     
   </section>
