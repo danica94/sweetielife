@@ -2,10 +2,12 @@
 
 
 .recipeherobanner{
+    max-width: 1400px;
+    margin:0 auto;
     display:flex;
     flex-direction:row;
     flex-wrap: nowrap;
-     padding:40px
+    padding:40px
    }
    .recipeheretext{
    
@@ -15,3 +17,31 @@
    padding:40px;
    
    }
+
+   .step{
+    max-width: 1400px;
+    margin: 0 auto;
+    display:flex;
+   }
+
+   .stepdescription{
+     width:40%;
+     padding: 40px;
+   }
+   .directions{
+    max-width: 1400px;
+    margin:0 auto;
+    padding: 40px;
+    }
+    .steplayout{
+      display:flex;
+      flex-direction:row;
+     }
+     .w30{
+       width: 30%;
+       
+     }
+  .w70{
+    width:70%
+    
+  }
