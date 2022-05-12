@@ -8,7 +8,8 @@ pageClass: home
 <body>
   <article class="hero">
    <div class="video">
-      <img src="https://place-hold.it/700x500.jpg" alt="video">
+      <iframe width="800" height="550" src="https://www.youtube.com/embed/n8iiBfLWDxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
     </div>
     <div class="herotext w50">
       <h1>Tittle</h1>
