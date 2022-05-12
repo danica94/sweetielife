@@ -1,3 +1,4 @@
+@import url("https://use.typekit.net/dqq2rvm.css");
 header{
   background: #ffffff;
 }
@@ -34,6 +35,7 @@ nav ul {
 nav ul li {
   float: left;
   position: relative;
+
 }
 nav ul li a,
 nav ul li a:visited {
@@ -43,6 +45,10 @@ nav ul li a:visited {
   background: #ffffff;
   color: #FFC6E8;
   text-decoration: none;
+  font-family: bely, serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:18px;
 }
 nav ul li a:hover,
 nav ul li a:visited:hover {
