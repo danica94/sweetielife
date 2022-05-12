@@ -24,7 +24,7 @@
   
   /* Base Styling for headings.
     You can and should modify these to fit your site*/
-  h1,
+  /*h1,
   h2,
   h3,
   h4,
@@ -35,16 +35,36 @@
     font-weight: 400;
     font-style: normal;
   }
-  
+  */
   
   /* For each of your headings at minimum set the margin, size, line-height. 
   Adjust font-weight and other properties as needed. */
   
-  h1 {
+  h1{
+    color:#744737;
     font-family: bely-display, sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size:35px;
+    font-size:40px;
+    
   }
   
-  
+  h2{
+    font-family: bely-display, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:30px;
+    color:#A7664E;
+  }
+ h3{
+  font-style: normal;
+  font-size:20px;
+  color:#333333;
+ }
+  p{
+    font-family: bely, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:20px;
+    color:#333333;
+  }
