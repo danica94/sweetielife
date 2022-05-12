@@ -52,7 +52,7 @@ pageClass: home
          <h3 class="w30">Step 4</h3>
          <p class="w50">To make the filling, stir together the ricotta cheese and confectioners' sugar using a spoon. Fold in lemon zest and chocolate. Use a pastry bag to pipe into shells, filling from the center to one end, then doing the same from the other side. Dust with additional confectioners' sugar and grated chocolate for garnish when serving.</p>
         </div>
+         <div class="article-credit">This text is from the <a href="https://www.allrecipes.com/recipe/88849/cannoli/">Allrecipes Article about Cannoli.</a></div>
       </section>
-  
   </body>
 </main>

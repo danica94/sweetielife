@@ -58,6 +58,7 @@ pageClass: home
        <h3 class="w30">Step 6</h3>
        <p class="w70">Brush croissants with beaten egg. Bake in preheated oven for 35 minutes, until golden.</p>
        </div>
+    <div class="article-credit">This text is from the <a href="https://www.allrecipes.com/recipe/24017/quick-butter-croissants/">Allrecipes Article about Quick Butter Croissants.</a></div>
     </section>
   
   </body>
