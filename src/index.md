@@ -8,7 +8,7 @@ pageClass: home
 <body>
   <article class="hero">
    <div class="video">
-      <iframe width="800" height="550" src="https://www.youtube.com/embed/n8iiBfLWDxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="800" height="550" src="https://www.youtube.com/embed/2rOcCug6heU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="herotext w50">
       <h1>Tittle</h1>
@@ -30,7 +30,7 @@ pageClass: home
  
   <section class="container">
      <div class="title">
-     <h1 class="p40">Category</h1>
+     <h1 class="p40">Foun Your Recipes</h1>
      </div>
       <div class="home_container" >
       <div class="card">
