@@ -8,6 +8,10 @@ html,body {
  video,img{
     max-width:100%
   }
+  video {
+    width: 100%;
+    height: auto;
+  }
   footer{
     background:#ffc6e8;
     height:100px;
