@@ -4,10 +4,8 @@
 .recipeherobanner{
     max-width: 1400px;
     margin:0 auto;
-    display:flex;
-    flex-direction:row;
-    flex-wrap: nowrap;
-   
+    display: grid;
+    grid-template-columns:1fr;
    }
    .recipeheretext{
    
@@ -22,7 +20,8 @@
    .step{
     max-width: 1400px;
     margin: 0 auto;
-    display:flex;
+    display: grid;
+    grid-template-columns:1fr;
    }
 
    .stepdescription{
@@ -46,11 +45,16 @@
     width:70%
     
   }
-.recipeimg{
-  padding: 40px;
-}
 @media screen and (min-width: 500px){
-
+  .recipeimg{
+    padding:40px;
+    }
+  .recipeherobanner{
+  grid-template-columns: repeat(2, 1fr);
+}
+.step{
+ grid-template-columns: repeat(2, 1fr);
+ }
 }
 
 @media screen and (min-width: 1200px){

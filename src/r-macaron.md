@@ -11,7 +11,7 @@ pageClass: home
     <img src="/images/Macarons1.jpg" alt="img">
     <p class="credit"><a href="https://www.flickr.com/photos/neelsandrine/22699901984/in/photolist-AzUW1q-ow8eFq-aNG5wR-4FNKjJ-9Zcpa2-2NLSjE-7GTum4-7aQGfC-7ERceF-7ERcnP-7ERcwT-b3JjUM-akp4eG-a5SoDy-csWgE9-7EV3uw-2iKVfc4-9jXyub-5ZqevQ-7ERbZ2-7ERc7c-7K8FEA-a2dYAE-a6xoaK-bsH1nd-7RmqvC-pNbJnf-9bg9fn-8MXEeW-7K4LJa-bkFrLo-9UPVyh-8XUFr-2iwGssx-9jXxoY-9jXzF1-dwEJs-dunAUE-7wKLwQ-9jUxcV-aciwAv-7ukAFA-bzowYg-7BQAAk-9jUymF-fCmL9X-9jUzhZ-duh1Hx-6yhVXA-9JWwfA">Photo</a> by <a href="https://www.flickr.com/photos/neelsandrine/">S@ndrine</a></p>
     </div>
-    <div class="recipeheretext w50">
+    <div class="recipeheretext">
     <h1> Marcaron</h1>
     <p>This is the quintessential macaron (NOT macaroon) recipe. I am a baker's apprentice, and after much trial and error, we (the baker and I) finally perfected the technique. We decided to share with you all. Pipe your choice of filling on a cookie and sandwich another cookie on top. These are like cloud cookie sandwiches and are delicious if done correctly. If you want to do it the super-easy way, just fill with your favorite flavor of frosting. Enjoy!</p>
     </div>

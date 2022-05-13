@@ -11,7 +11,7 @@ pageClass: home
     <img src="/images/Berliner1.jpg" alt="marcaron page">
     <p class="credit"><a href="https://www.flickr.com/photos/like_the_grand_canyon/51788342616/in/photolist-2mUmMYU-aAFNXd-aAGm6a-aAFJcD-2k663MR-aAJPcY-V4Vat7-aAFJER-aAGCSQ-aAFTph-aAGxBy-aAE7Mx-aAHcVU-aAFE6F-2kwwoS5-dntwSe-2j5rYfR-NZEco2-TXsLp5-VsosVk-CJBb6n-aAEymD-aAFuDT-2k64oo1-aAHxqu-aAFWsf-aAGAYK-aAFphP-aAG6C7-6DyFcR-aADTGT-aAFY1x-aAEbDc-aAGygc-aAJHFU-aAEryT-aAEcWp-aAFAxc-VfJgNH-aAGu4H-CPAPHd-aAGcH2-aAEek8-aAG6KH-aAFWLr-aAJ84m-aAJ4Pb-aAGHTh-aAG5JS-aAFZfy">Photo</a> by <a href="https://www.flickr.com/photos/like_the_grand_canyon/">Like_the_Grand_Canyon</a></p>
     </div>
-    <div class="recipeheretext w50">
+    <div class="recipeheretext">
     <h1> Berliner</h1>
     <p>Carnival is THE season for eating German donuts, as filling up on all the fatty and sugary foods (and alcohol) right before fasting season is a popular thing to do. On a sad note, it looks like most carnival celebrations are going to again be canceled this year. Though I think that the tradition of eating deep-fried dough balls coated in powdered sugar will never be canceled!</p>
     </div>
