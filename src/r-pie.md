@@ -7,7 +7,10 @@ pageClass: home
 <main>
   <body>
   <section class="recipeherobanner">
+ <div class="recipeimg">
     <img src="/images/pie1.jpg" alt="marcaron page">
+     <p class="credit"><a href="https://www.flickr.com/photos/meg-z/5209610108/in/photolist-8WmBzW-t9CKb-bPyY3D-dv6c82-5aECcr-7S7Bc-6kDWQA-6RJRJL-2C76ef-71Sdak-qhrrwp-gNmTV-4FtcSh-yHs6J-9iUJRh-5dGuMC-5pR3tE-khDx-WxDn1-6hvhj6-dgK1Se-6ePXwu-c8QiVb-6SY4Sv-82BuLD-hKXB-4TxdAN-VMKvPv-dgK14V-5cSWRR-49Gbi-5cSXvM-dgK2cQ-86tofd-5WVAc-7Z25Zm-qP7mE-6rRsB-7U4ma5-p6mz2-82kMRg-dwg4Q6-hgduUA-26QHyQv-2VU9ec-83SqSg-4yKTy4-qD8g2-9dzQ7H-pWAd7c">Photo</a> by <a href="https://www.flickr.com/photos/meg-z/">mazaletel</a></p>
+    </div>
     <div class="recipeheretext w50">
     <h1>Simple Pumpkin Pie</h1>
     <p>Pumpkin pie is a dessert pie with a spiced, pumpkin-based custard filling. The pumpkin and pumpkin pie are both a symbol of harvest time,and pumpkin pie is generally eaten during the fall and early winter. In the United States and Canada it is usually prepared for Thanksgiving, Christmas, and other occasions when pumpkin is in season.</p>
@@ -25,6 +28,8 @@ pageClass: home
     </div>
     <div class="recipeimg">
       <img src="/images/pie2.jpg" alt="Macaron">
+       <p class="credit"><a href="https://www.flickr.com/photos/25785573@N06/35304641151/in/photolist-VMKvPv-dgK14V-5cSWRR-49Gbi-5cSXvM-dgK2cQ-86tofd-5WVAc-7Z25Zm-qP7mE-6rRsB-7U4ma5-p6mz2-82kMRg-dwg4Q6-hgduUA-26QHyQv-2VU9ec-83SqSg-4yKTy4-qD8g2-9dzQ7H-pWAd7c-hwtSL-bbo3f-a9fYKw-82BuyM-52Skyh-zxd29u-7iLBpt-6x7zPE-6YBJNX-5KEpB-8YBR6-c9U2o-75Gwzp-5qjVva-4kyaAH-xeo3R-6tMZnK-21reHy-6FGNYj-7S3BV-3XkvkE-iZpawL-4yq1iM-bR9gbi-4eH5T4-RhRaXs-sUqwc">Photo</a> by <a href="https://www.flickr.com/photos/25785573@N06/">
+Elizabeth Worthy</a></p>
     </div>
     
   </section>

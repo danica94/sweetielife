@@ -7,7 +7,10 @@ pageClass: home
 <main>
   <body>
   <section class="recipeherobanner">
+   <div class="recipeimg">
     <img src="/images/Cannoli1.jpg" alt="marcaron page">
+    <p class="credit"><a href="https://www.flickr.com/photos/pmillera4/15195933753/in/photolist-p9P8FP-cEACU-7j9fBg-zwiuD-brdcT6-NFifC-zweLL-63tu2P-aTeZvz-581n9n-hBXQY-5X7p8R-4jpsCD-4jtqMu-5XbDD5-4jtrN7-3e5MV-5XbXaq-4jtt25-5Xcmv1-dCaQ2H-5XbxKQ-8yW6tq-bARVjb-2kwEMQG-5ZNKfv-8mFU2R-5X7j9v-6SBVQe-dEUWGf-cBSAJf-a8to66-5hjhtG-sRHpC-9w6z1V-9w9AYE-cFtpc3-qZcdy9-dmeLiU-nnHko7-9w9Biq-2gf1bTC-aqen3x-8EQamr-7hFWFd-5niEgf-7hBZBF-7hC1Xz-9hdqvZ-7mzsvr">Photo</a> by <a href="https://www.flickr.com/photos/pmillera4/">Peter Miller</a></p>
+     </div>
     <div class="recipeheretext w50">
     <h1> Cannoli</h1>
     <p>Ana and Lydia's cannoli, recipe invented on July 31st, 2005. I spent a lot of time looking for a good recipe for cannoli shells and filling. Since no two were alike, and since instructions were a bit sketchy, I worked with a friend to come up with a good recipe, including some tips that we came up with along the way. Special equipment is needed such as cannoli tubes, a pasta machine and a pastry bag to help make these cannoli come out just like the ones at Italian restaurants and bakeries. Start with 1/2 cup of confectioners' sugar, and then add more to taste.</p>
@@ -31,8 +34,9 @@ pageClass: home
     </div>
     <div class="recipeimg">
       <img src="/images/Cannoli2.jpg" alt="Macaron">
+       <p class="credit"><a href="https://www.flickr.com/photos/christina-d/5991768711/in/photolist-a8to66-5hjhtG-sRHpC-9w6z1V-9w9AYE-cFtpc3-qZcdy9-dmeLiU-nnHko7-9w9Biq-2gf1bTC-aqen3x-8EQamr-7hFWFd-5niEgf-7hBZBF-7hC1Xz-9hdqvZ-7mzsvr-vcRnv-mgfpVT-dTR9G8-aEDtVH-WUqt9d-wJbEd-fh6DWB-5SXPMi-visex-cGFJwA-6RZKFW-8K8ay8-cGFKQm-dZHZVJ-visg8-5FhVqY-dn3UKN-dmF9sz-wTai4m-edvJ2m-7khAJH-zamAs-6rBRbU-5NkcJL-HF9CES-5g8mzJ-cGFK8w-7NABsb-74hx5N-azYwBx-5g41Tk">Photo</a> by <a href="https://www.flickr.com/photos/christina-d/">
+ChristinaEatsBrains</a></p>
     </div>
-    
   </section>
    <section class="directions">
       <h1>Directions</h1>

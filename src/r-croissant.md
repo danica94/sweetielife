@@ -7,7 +7,10 @@ pageClass: home
 <main>
   <body>
   <section class="recipeherobanner">
+   <div class="recipeimg">
     <img src="/images/Croissant1.jpg" alt="marcaron page">
+     <p class="credit"><a href="https://www.flickr.com/photos/m00by/13330779593/in/photolist-miZJkt-6GmiDv-4sVDot-2jkn46x-7tYKLw-2iBttoF-2g6Pp8P-2iBtuST-6S3ZrY-mxA4w-7sAVpT-HC1Q1-6UVhja-Zq91qz-zJMuL4-2zcCe9-4FaQBV-AFEQHp-j1FSLU-zJD7Hd-2ijMiCU-6khUpV-9d6Ftx-ta9YJU-3cDQbs-8uMRoW-6EHbM4-3bx12a-hwfAnr-LLiGyv-RsCYGU-23L3Exf-k3ANSR-3pESS1-aYRSvD-brcgva-mJtMn2-KhAhfG-7VtQrg-2inyTky-dCGyGT-LepW5x-77aAt8-25byFDn-KhAh2A-hfhn42-KhAh7A-2kGXZ4K-daMN18-b274Tg">Photo</a> by <a href="https://www.flickr.com/photos/m00by/">m00by</a></p>
+    </div>
     <div class="recipeheretext w50">
     <h1> Croissants</h1>
     <p>Croissants is a buttery, flaky, French viennoiserie pastry inspired by the shape of the Austrian kipferl but using the French yeast-leavened laminated dough.[2] Croissants are named for their historical crescent shape, the dough is layered with butter, rolled and folded several times in succession, then rolled into a thin sheet, in a technique called laminating. The process results in a layered, flaky texture, similar to a puff pastry.</p>
@@ -29,6 +32,7 @@ pageClass: home
     </div>
     <div class="recipeimg">
       <img src="/images/Croissant2.jpg" alt="Macaron">
+        <p class="credit"><a href="https://www.flickr.com/photos/cuttingboard/4812577182/in/photolist-8kgHwE-8kgHzh-8kgHyw-8vZog5-5auTDr-axwaG-HC7FB-axwaF-8kgHw9-HC7H6-8kdvE2-bzowYp-8V6CtV-8W8Xvb-8We5dD-6N2pN-4tGkDP-D75x-6jKTrq-axwaE-7VqdTU-RXsJwh-7iyYFJ-uMTQ1P-2gEep12-2gjPsWA-22Qoj3d-Eg75Gr-9gkZwG-77soXa-9zoKqb-4dUKrp-2mJA6QA-JYfoBH-8zTJfq-2n3oBuP-2n24aqa-ef1cEn-FPcxm-FPcwA-dHnmvf-dEPTVE-6sC5jo-2krpwmN-8g6GM4-dEJvmk-dEJjTV-8SCzbe-dEJvpc-5tYNM8">Photo</a> by <a href="https://www.flickr.com/photos/cuttingboard/">Emily Carlin</a></p>
     </div>
     
   </section>

@@ -7,7 +7,10 @@ pageClass: home
 <main>
   <body>
   <section class="recipeherobanner">
+  <div class="recipeimg">
     <img src="/images/eclair1.jpg" alt="marcaron page">
+     <p class="credit"><a href="https://www.flickr.com/photos/shogunangel/16671170611/in/photolist-rpb7d4-X6hgtz-7i5hCE-9Aes6y-X6hjRM-28MbcdA-W4Mg2g-22jVwbq-c2QpRu-c2Qq3s-oR6sqo-Jo5TSZ-c2QpZ9-XhVxmv-28ewhyZ-5zHZGH-fCiTCL-2hdNwmw-75SJmR-XhVqxa-JLYYFC-rMHRWB-4SZtXp-6b7gHM-5bnW6V-2ikp1mt-2duZTty-4ULVXV-4szp6s-J5QLXo-6FMyYy-L9ur3N-2mC9xWS-x2M8v-RrDBt-onSMzj-2mgERcE-oR5ZR3-4SGkNo-9mE7Pb-asD77a-bEUQ1-Wch3wq-XhVrQv-zJUR6E-2gi6Wp7-HTeQC7-eKmB93-9mE8YA-6pZ4Uz">Photo</a> by <a href="https://www.flickr.com/photos/shogunangel/">shogunangel</a></p>
+    </div>
     <div class="recipeheretext w50">
     <h1> Eclair</h1>
     <p> Eclair is a pastry made with choux dough filled with a cream and topped with a flavored icing. The dough, which is the same as that used for profiterole, is typically piped into an oblong shape with a pastry bag and baked until it is crisp and hollow inside. Once cool, the pastry is filled with custard (crème pâtissière), whipped cream or chiboust cream, then iced with fondant icing.[3] Other fillings include pistachio- and rum-flavoured custard, fruit-flavoured fillings, or chestnut purée. The icing is sometimes caramel, in which case the dessert may be called a bâton de Jacob.[4] A similar pastry in a round rather than oblong shape is called a Religieuse.</p>
@@ -35,6 +38,7 @@ pageClass: home
     </div>
     <div class="recipeimg">
       <img src="/images/eclair2.jpg" alt="Eclair">
+       <p class="credit"><a href="https://www.flickr.com/photos/fromkeith/5484625150/in/photolist-9mE8YA-6pZ4Uz-4PPCtE-5sSH1N-iX1GC-4fQtDP-bEbcDc-2mfAMC1-aFFvye-opQY4B-fDuWtf-XhVzQP-fkrtjx-5838oA-8BdPzr-byFU2E-LTFiP-4RgM7B-KHsm6K-5838jN-57XVfR-57XUZT-5hX5sA-4RkYJm-5jdEov-ffrhTw-2ijL4Hm-WG9ZxY-76eJFB-opQTN2-WG9Vxo-2npgiB-6rec5v-XhVm8t-47MRE4-47RUuh-2meVusG-6F3nzb-o6BugR-4RgLNt-6pZ3wK-mCBfMp-4RkZxb-6q49LW-6pZ1aK-6K5Agh-4UR9oQ-6pZ72v-ScjKBd-4UR94w">Photo</a> by <a href="https://www.flickr.com/photos/fromkeith/tomassedlacek/">keith.bellvay</a></p>
     </div>
     
   </section>
