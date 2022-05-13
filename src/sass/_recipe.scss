@@ -7,7 +7,7 @@
     display:flex;
     flex-direction:row;
     flex-wrap: nowrap;
-    padding:40px
+   
    }
    .recipeheretext{
    
@@ -15,6 +15,7 @@
    display:center;
    justify-content:center;
    padding:40px;
+ 
    
    }
 
@@ -45,3 +46,13 @@
     width:70%
     
   }
+.recipeimg{
+  padding: 40px;
+}
+@media screen and (min-width: 500px){
+
+}
+
+@media screen and (min-width: 1200px){
+
+}
