@@ -46,7 +46,7 @@ pageClass: home
       <div class="card">
         <h2>Pie</h2>
         <img src="/images/s-pie.jpg" alt="card3">
-         <p class="credit"><a href="https://www.flickr.com/photos/adventuressheart/19444928652/in/photolist-vChkQy-vChnXE-uFQ8C5-zQoNFm-rpTedT-N5ajTL-qNxq82-SwRGCJ-FwkcgK-GYcPi9-Hdyz69-6Y2Gpm-YayTci-B7PwRm-smLmsq-2cJGMCS-25Xyshv-2dfwni2-tsXv6N-rG9pQg-rJLNJN-rkXGWj-N2xoY3-s3KG8V-Zn1crQ-qLX9rs-HksftS-EzhQB3-w1M1f3-29XKSU2-sDkxH2-CufS9H-uA5JM1-PkdkgB-G5YGzN-CZw1ti-CZoMa9-Z3s62J-rqPc6u-rqN45E-zQqnMP-HFcRFz-vmdzVL-v6WyE9-NkRKSo-AdAFEr-rkpy9Q-TwPSU-RzbpzN-GpNK6K/">Photo</a> by <a href="https://www.flickr.com/photos/adventuressheart/">Bella
+         <p class="credit"><a href="https://www.flickr.com/photos/31134010@N02/31173242456/in/photolist-PuF1Vw-MUuN1G-MjaRG3-ZUn9Rb-QTqJNo-QkorRW-LkMxNo-z6EdHQ-KCh51Y-2cmgM47-MS53P4-YzsxGn-8Rxe6m-NHUfof-AZhK3r-Ch4VQ3-ZodNsi-YZp7qu-CnyLmA-CJ5oe7-VAZRBX-21cdeeY-GNCx3B-UF5BEv-YqYWos-ZzbHkY-F9iCYr-23PowwR-PVTQFn-2bqp7dw-MFxJ71-MNA9bb-AFs14j-8Pe3qK-YioXPA-YioXGG-zTcDYV-Zu1yNh-NvYgW8-s95w2q-HmHa4b-zvGorD-Y9LHcf-Bfgzr5-ZUPHV5-Lq6kzB-TFU8ag-MJyh4s-zFqHcB-Ai5pqw">Photo</a> by <a href="https://www.flickr.com/photos/31134010@N02/">Elisa
 
 </a></p>
       </div>
