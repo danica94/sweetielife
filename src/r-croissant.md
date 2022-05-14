@@ -19,7 +19,7 @@ pageClass: home
 <!-- steps-->
 <section class="step">
     <div class="stepdescription">
-      <h3>Ingredients</h3>
+      <h2>Ingredients</h2>
       <p>1 (.25 ounce) package active dry yeast</p>
       <p>1 cup warm water (110 degrees F/45 degrees C)</p>
       <p>¾ cup evaporated milk </p>
@@ -37,7 +37,7 @@ pageClass: home
     
   </section>
    <section class="directions">
-      <h1>Directions</h1>
+      <h2>Directions</h2>
       <div class="steplayout">
       <h3 class="w30">Step 1</h3>
       <p class="w50">In a large bowl, dissolve yeast in warm water. Let stand until creamy, about 10 minutes. Stir in milk, salt, sugar, 1 egg, 1 cup flour and melted butter. Beat to make a smooth batter; set aside.</p>

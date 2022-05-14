@@ -19,7 +19,7 @@ pageClass: home
 <!-- steps-->
 <section class="step">
     <div class="stepdescription">
-      <h3>Ingredients</h3>
+      <h2>Ingredients</h2>
       <p>500 g all-purpose flour plus more for shaping the berliner </p>
       <p>1 pouch active-dry yeast</p>
      <p> 250 ml milk luke warm</p>
@@ -39,7 +39,7 @@ pageClass: home
     
   </section>
    <section class="directions">
-      <h1>Directions</h1>
+      <h2>Directions</h2>
       <div class="steplayout">
       <h3 class="w30">Step 1</h3>
       <p class="w50">Combine the luke warm milk and yeast and set aside for 5 minutes. It should be bubbly. If not, start over (your milk may have been too hot or too cold). In the bowl of a standmixer, combine all ingredients for the dough and knead for 10 minutes on the medium-low setting. Cover the bowl and allow to rest in a warm spot until doubled in size, about one hour.</p>

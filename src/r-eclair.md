@@ -19,7 +19,7 @@ pageClass: home
 <!-- steps-->
 <section class="step">
     <div class="stepdescription">
-      <h3>Ingredients</h3>
+      <h2>Ingredients</h2>
       <p>½ cup butter</p>
       <p>1 cup water</p>
       <p>1 cup all-purpose flour </p>
@@ -43,7 +43,7 @@ pageClass: home
     
   </section>
    <section class="directions">
-      <h1>Directions</h1>
+      <h2>Directions</h2>
       <div class="steplayout">
       <h3 class="w30">Step 1</h3>
       <p class="w70">Preheat oven to 450 degrees F (230 degrees C). Grease a cookie sheet.</p>

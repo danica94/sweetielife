@@ -19,7 +19,7 @@ pageClass: home
 <!-- steps-->
 <section class="step">
     <div class="stepdescription">
-      <h3>Ingredients</h3>
+      <h2>Ingredients</h2>
       <p>3 cups all-purpose flour </p>
       <p>¼ cup white sugar</p>
       <p>¼ teaspoon ground cinnamon </p>
@@ -39,7 +39,7 @@ ChristinaEatsBrains</a></p>
     </div>
   </section>
    <section class="directions">
-      <h1>Directions</h1>
+      <h2>Directions</h2>
       <div class="steplayout">
       <h3 class="w30">Step 1</h3>
       <p class="w50">In a medium bowl, mix together the flour, sugar and cinnamon. Cut in the shortening until it is in pieces no larger than peas. Make a well in the center, and pour in the egg, egg yolk, Marsala wine, vinegar and water. Mix with a fork until the dough becomes stiff, then finish it by hand, kneading on a clean surface. Add a bit more water if needed to incorporate all of the dry ingredients. Knead for about 10 minutes, then cover and refrigerate for 1 to 2 hours.</p>

@@ -19,7 +19,7 @@ pageClass: home
 <!-- steps-->
 <section class="step">
     <div class="stepdescription">
-      <h3>Ingredients</h3>
+      <h2>Ingredients</h2>
       <p>2 eggs</p>
       <p>1 (16 ounce) can pumpkin puree.</p>
       <p>1 (14 ounce) can sweetened condensed milk.</p>
@@ -34,7 +34,7 @@ Elizabeth Worthy</a></p>
     
   </section>
    <section class="directions">
-      <h1>Directions</h1>
+      <h2>Directions</h2>
       <div class="steplayout">
       <h3 class="w30">Step 1</h3>
       <p class="w70">Line a baking sheet with a silicone baking mat.</p>
