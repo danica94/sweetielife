@@ -14,6 +14,7 @@ padding:40px;
 }
 
 @media only screen and (max-width: 499px) {
+  
   .nav-mobile {
     display: block;
   }
@@ -43,6 +44,9 @@ padding:40px;
 
 
 @media screen and (min-width: 500px) {
+  video,img{
+    max-width:100%
+  }
   .nav-list {
     display: block !important;
   }
