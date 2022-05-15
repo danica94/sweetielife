@@ -39,7 +39,7 @@ pageClass: home
       <div class="card">
         <h3>Eclair</h3>
         <img src="/images/s-eclairs.jpg" alt="card1">
-        <p class="credit"><a href="https://www.flickr.com/photos/kellbakes/15944340533/sizes/c/">Photo</a> by <a href="https://www.flickr.com/photos/kellbakes/15944340533/sizes/c/">kellbakes</a></p>
+        <p class="credit"><a href="https://www.pexels.com/photo/frosted-eclairs-8365696/">Photo</a> by <a href="https://www.pexels.com/@69816215/">Анастасия</a></p>
       </div>
       <div class="card">
         <h3>Pie</h3>
@@ -61,8 +61,7 @@ pageClass: home
        <div class="card">
         <h3>Berliner</h3>
         <img src="/images/s-ber.jpg" alt="card3">
-         <p class="credit"><a href="https://shop.cake-masters.com/en/ingredients/baking-mixes/cupcakes-cookies/cake-masters-baking-mix-berlin-donut-500g">Photo</a> by <a href="https://shop.cake-masters.com/en/">
-cake-masters</a></p>
+         <p class="credit"><a href="https://www.sugarandsoul.co/air-fryer-pumpkin-pie/">Photo</a> by <a href="https://www.sugarandsoul.co/">Sugarandsoul</a></p>
       </div>
       </div>
 
