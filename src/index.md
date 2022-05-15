@@ -30,7 +30,7 @@ pageClass: home
  
   <section class="container">
      <div class="title">
-     <h1 class="p40">Foun Your Recipes</h1>
+     <h1 class="p40">Found Your Recipes</h1>
      </div>
       <div class="home_container" >
       <div class="card">
