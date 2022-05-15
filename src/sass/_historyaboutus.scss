@@ -38,8 +38,8 @@ img{
  @media screen and (min-width: 1200px){
    .aboutus-card{
      grid-template-columns: repeat(3, 1fr);
-     grid-gap: 2rem;
-     padding:0 15%;
+     grid-gap: 1rem;
+
    }
  }
  .history{
