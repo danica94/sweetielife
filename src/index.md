@@ -55,7 +55,7 @@ pageClass: home
       </div>
        <div class="card">
         <h3>Cannoli</h3>
-        <img src="/images/s-eclairs.jpg" alt="card3">
+        <img src="/images/s-car.jpg" alt="card3">
          <p class="credit"><a href="https://www.flickr.com/photos/baumsfinepastries/41390385841/in/photolist-264wxG6-5QzTMA-K99T3A-E5g9Kc-K1JNWD-rkiqCX-U7HMeM-r5Tgg4-HJDnXs-xjLgWD-HGVEeY-JmUENW-JSqyFN-G8M23b-2aMiYm2-JYuAsw-K8GeSD-28EFNT-HpN39w-PXVRK-tggN16-JeEZPt-MVEPaY-VPqjYP-R5xVuD-vgqE86-GwrfKd-CPqbpQ-wb5Lym-NjgRFf-Ab2QB7-227sTJc-yAqZ6R-JmYcrn-KbsjKF-JmYhav-KfvW5U-JmYhka-JmY8hF-22bg281-s8QRgi-GUykfF-J8kk9u-EunAnz-vhv9uc-w1y1jz-rDhCwT-JeEZMV-ToS7U2-qAp5HE">Photo</a> by <a href="https://www.flickr.com/photos/baumsfinepastries/">Baum's Fine Pastries</a></p>
       </div>
        <div class="card">
