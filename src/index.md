@@ -29,9 +29,7 @@ pageClass: home
   </div>-->
  
   <section class="container">
-     <div class="title">
-     <h1 class="p40">Found Your Recipes</h1>
-     </div>
+     <h1 class="title">Found Your Recipes</h1>
       <div class="home_container" >
       <div class="card">
         <h3>Macaron</h3 style="color:##FFC6E8;">
