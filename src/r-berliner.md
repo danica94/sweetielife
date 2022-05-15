@@ -56,7 +56,7 @@ pageClass: home
          <h3 class="w30">Step 4</h3>
          <p class="w50">Fill each Berliner with your favorite jam using a decorating bag and filling tip and dust with powdered sugar. I also LOVE filling them with plum butter! So lecker!</p>
         </div>
-      <div class="article-credit">This text is from the <a href="https://dirndlkitchen.com/berliner-the-classic-german-donut/">dirndlkitchen Article about HOW TO MAKE DONUTS (GERMAN BERLINER).</a></div>
+      <div class="credit">This text is from the <a href="https://dirndlkitchen.com/berliner-the-classic-german-donut/">dirndlkitchen Article about HOW TO MAKE DONUTS (GERMAN BERLINER).</a></div>
       </section>
       
   

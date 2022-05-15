@@ -59,7 +59,7 @@ Elizabeth Worthy</a></p>
        <h3 class="w30">Step 6</h3>
        <p class="w70">Bake cookies until set but not browned, about 10 minutes; let cookies cool completely before filling.</p>
        </div>
-       <div class="article-credit">This text is from the <a href="https://www.allrecipes.com/recipe/229932/simple-pumpkin-pie/">Allrecipes Article about Simple Pumpkin Pie.</a></div>
+       <div class="credit">This text is from the <a href="https://www.allrecipes.com/recipe/229932/simple-pumpkin-pie/">Allrecipes Article about Simple Pumpkin Pie.</a></div>
     </section>
   
   </body>

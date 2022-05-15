@@ -48,7 +48,7 @@ Choux begins as a mixture of milk or water and butter which are heated together 
       <div class="history-item"><p>Hot water crust pastry is used for savoury pies, such as pork pies, game pies and, more rarely, steak and kidney pies. Hot water crust is traditionally used for making hand-raised pies. The usual ingredients are hot water, lard and flour, the pastry is made by heating water, melting the fat in this, bringing to the boil, and finally mixing with the flour. This can be done by beating the flour into the mixture in the pan, or by kneading on a pastry board. Either way, the result is a hot and rather sticky paste that can be used for hand-raising: shaping by hand, sometimes using a dish or bowl as an inner mould. As the crust cools, its shape is largely retained, and it is filled and covered with a crust, ready for baking. Hand-raised hot water crust pastry does not produce a neat and uniform finish, as there will be sagging during the cooking of the filled pie, which is generally accepted as the mark of a hand-made pie.</p></div>
      <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <script src="/js/main.js"></script>  
-<div class="article-credit">This text is from the <a href="https://en.wikipedia.org/wiki/Pastry">Wikipedia Article about Pastry.</a></div>
+<div class="credit">This text is from the <a href="https://en.wikipedia.org/wiki/Pastry">Wikipedia Article about Pastry.</a></div>
 </article>
 </body>
 </main>

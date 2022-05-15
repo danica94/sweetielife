@@ -64,7 +64,7 @@ pageClass: home
           <h3 class="w30">Step 5</h3>
           <p class="w70">For the icing, melt the chocolate and 2 tablespoons butter in a medium saucepan over low heat. Stir in 1 cup confectioners' sugar and 1 teaspoon vanilla. Stir in hot water, one tablespoon at a time, until icing is smooth and has reached desired consistency. Remove from heat, cool slightly, and drizzle over filled eclairs. Refrigerate until serving.</p>
       </div>
-    <div class="article-credit">This text is from the <a href="https://www.allrecipes.com/recipe/19010/eclairs-ii/">Allrecipes Article about Eclairs II.</a></div>
+    <div class="credit">This text is from the <a href="https://www.allrecipes.com/recipe/19010/eclairs-ii/">Allrecipes Article about Eclairs II.</a></div>
       </section>
   
   </body>
