@@ -17,7 +17,6 @@ img{
    padding:0 15%;
  }
  .person-card{
-   width:350px;
    background-color:#FFC6E8;
    border-radius: 0.8rem;
    overflow: hidden;
@@ -27,7 +26,7 @@ img{
    width: 100%;
  }
  .person-card-content{
-   padding: 0 40px 20px 40px;
+   padding: 0 10px 20px 10px;
  }
  @media screen and (min-width: 500px){
    .aboutus-card{
@@ -39,6 +38,7 @@ img{
  @media screen and (min-width: 1200px){
    .aboutus-card{
      grid-template-columns: repeat(3, 1fr);
+     grid-gap: 2rem;
      padding:0 15%;
    }
  }
