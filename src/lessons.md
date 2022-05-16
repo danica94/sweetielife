@@ -9,7 +9,7 @@ pageClass: home
   <div class="pastry-lessons">
     <h1>START YOUR LESSON</h1>
   </div>
-<article class="lessons">
+<article class="lesson1">
 <div class="monthly">  
   <section>
       <div class="lessoncard1">
@@ -26,7 +26,9 @@ pageClass: home
     </div>-->
   </section> 
 </div>
+</article>
 
+<article class="lesson2">
 <div class="yearly">  
   <section>
       <div class="lessoncard2">
