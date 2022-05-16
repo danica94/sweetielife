@@ -72,10 +72,12 @@ pageClass: home
     <h1 class="title">Lesson</h1>
     <div class="lesson">
       <div class="lessoncard">
-      <img src="https://place-hold.it/600x450.jpg" alt="card1">
+      <img src="/images/index_monthly.jpg" alt="img">
+      <p class="credit"><a href="https://wordpress.org/openverse/image/ac4250d7-7926-46ea-9346-95cfb812f5f8">Photo</a> by <a href="https://www.flickr.com/photos/41431665@N07">COD Newsroom</a></p>
         </div>
        <div class="lessoncard">
-      <img src="https://place-hold.it/600x450.jpg" alt="card1">
+      <img src="/images/index_year.jpg" alt="img">
+      <p class="credit"><a href="https://wordpress.org/openverse/image/649603c8-3e7f-4a79-a6f9-bb2743dd6b95">Photo</a> by <a href="https://www.flickr.com/photos/45802067@N03">BC Gov Photos</a></p>
        </div>
        </div>
     </div>
