@@ -13,7 +13,7 @@ pageClass: home
 <div class="monthly">  
   <section>
       <div class="lessoncard1">
-      <img src="/images/monthly.jpg" alt="img">
+      <img src="/images/monthly.jpg" alt="img" class="image1">
       <p class="credit"><a href="https://wordpress.org/openverse/image/1efe8193-2cfa-4942-b93d-29e61d704001">Photo</a> by <a href="https://www.flickr.com/photos/36281822@N08">US Army Africa</a></p>
       </div>
     <div class="monthlylesson">
@@ -32,7 +32,7 @@ pageClass: home
 <div class="yearly">  
   <section>
       <div class="lessoncard2">
-      <img src="/images/yearly.jpg" alt="img">
+      <img src="/images/yearly.jpg" alt="img" class="image2">
       <p class="credit"><a href="https://wordpress.org/openverse/image/e856ab73-4062-4d0f-abdc-662bab02bd24">Photo</a> by <a href="https://www.flickr.com/photos/39809323@N03">U.S. Embassy Jakarta, Indonesia</a></p>
       </div>
     <div class="yearlylesson">
