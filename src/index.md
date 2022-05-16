@@ -6,16 +6,17 @@ pageClass: home
 ---
 <main>
 <body>
-  <article class="hero">
-   <div class="video">
+  <article class="backgroundpink">
+    <div class="hero">
+      <div class="video">
       <iframe class="videocontent" width="100%" height="550" src="https://www.youtube.com/embed/2rOcCug6heU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
+      </div>
     <div class="herotext w50">
       <h1>Sweetie Life</h1>
       <p style="color:#A7664E;">The purpose of Sweetie Life is to instruct on how to create delicate and delicious pastries from all over the world. Regardless of where you are located, or what level your pastries-making skills are at, Sweetie Life provides a detailed description on all presented pastries on our website and easy to follow recipes.</p>
     </div>
-    
-  </div>
+    </div>
+    </div>
  
 </article>
 
