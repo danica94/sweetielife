@@ -29,9 +29,10 @@ pageClass: home
 
 <div class="yearly">  
   <section>
-        <div class="lessoncard2">
-      <img src="https://place-hold.it/600x450.jpg" alt="card1">
-        </div>
+      <div class="lessoncard2">
+      <img src="/images/yearly.jpg" alt="img">
+      <p class="credit"><a href="https://wordpress.org/openverse/image/e856ab73-4062-4d0f-abdc-662bab02bd24">Photo</a> by <a href="https://www.flickr.com/photos/39809323@N03">U.S. Embassy Jakarta, Indonesia</a></p>
+      </div>
     <div class="yearlylesson">
     <h2>Yearly Lesson Plan</h2>
     <p>The Yearly Lesson Plan is a yearly subcrisption that you can buy to unlock hidden special recipes, better your pastry making skills, and be given 1 on 1 live video lessons on how to prepare all of our listed pastries. On top of that, every month within the year you will be taught 2 special recipes on pastries that have not been published in our site yet. Can't attend a 1 on 1 lesson? No problem! In the yearly subcription plan, you can let us know if you can't attend a lesson and a pre-recorded video of the lesson will be emailed to you! So either way, in total, you'll be learning how to perfectly make 24 delicious pastries over the year long course. Insterested? Click the button below to get your yearly lesson plan now!</p>
