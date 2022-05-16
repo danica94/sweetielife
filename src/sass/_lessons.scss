@@ -1,9 +1,22 @@
-.yearly {
-    &__image {
-        width: 250px;
-        float: left;
-    }
-    &__text {
-        display:inline;
-    }
-}
+  .lesson1{
+  margin:0 auto;
+  padding: 20px 40px 20px 40px;
+  max-width:100%;
+  background-color:#EEC7DF;
+  font-size:20px;
+  display:flex;
+  flex-direction:row;
+  flex-wrap: nowrap;
+  }
+  .monthlylesson{
+  width: 40%;
+  display:center;
+  justify-content:center;
+  padding:10px 40px 10px;
+  }
+
+  .image1{
+    width: 50%;
+    height: 10%;
+
+  }
