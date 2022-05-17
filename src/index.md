@@ -46,10 +46,8 @@ pageClass: home
       </div>
       <div class="card">
         <h3>Pie</h3>
-        <img src="/images/s-pie.jpg" alt="card3">
-         <p class="credit"><a href="https://www.sugarandsoul.co/air-fryer-pumpkin-pie/">Photo</a> by <a href="https://www.sugarandsoul.co/">Sugarandsoul
-
-</a></p>
+        <img src="/images/s-pie2.jpg" alt="card3">
+         <p class="credit"><a href="https://www.sugarandsoul.co/air-fryer-pumpkin-pie/">Photo</a> by <a href="https://www.sugarandsoul.co/">Sugarandsoul</a></p>
       </div>
       <div class="card">
         <h3>Croissant</h3>
