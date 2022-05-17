@@ -62,7 +62,7 @@ pageClass: home
        <div class="card">
         <h3>Berliner</h3>
         <img src="/images/s-ber.jpg" alt="card3">
-         <p class="credit"><a href="https://www.sugarandsoul.co/air-fryer-pumpkin-pie/">Photo</a> by <a href="https://www.sugarandsoul.co/">Sugarandsoul</a></p>
+         <p class="credit"><a href="https://cookidoo.com.cn/recipes/recipe/en-CN/r258637">Photo</a> by <a href="https://cookidoo.com.cn/foundation/en-CN">Cookidoo</a></p>
       </div>
       </div>
 
