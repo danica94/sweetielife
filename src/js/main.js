@@ -10,6 +10,7 @@ $(document).ready(function() {
     $('.history-title').click(function() {
       // toggle show and hide
       $(this).next('.history-item').toggle(300);
-      return false;
+      $(this).toggleClass('open')
+    return false;
     }); //end history type.click()
   }); //end document.ready()
