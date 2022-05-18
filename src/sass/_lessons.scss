@@ -9,54 +9,39 @@
  
  
  .lesson1{
-  margin:0 auto;
-  padding: 20px 40px 20px 40px;
-  max-width:100%;
   background-color:#EEC7DF;
-  font-size:20px;
   display:flex;
-  flex-direction:row;
-  flex-wrap: nowrap;
-  margin-top: 5rem;
   }
-
-  .monthlylesson{
-  width: 40%;
-  display:center;
-  justify-content:center;
-  padding:10px 40px 10px;
+ 
+  .monthly{
+    flex:33.33%;
+    padding: 5px;
   }
 
   .image1{
-    width: 50%;
-    height: 10%;
+    width: 30%;
+    height: 30%;
   }
 
 
   
   .lesson2{
-    margin:0 auto;
-    padding: 20px 40px 20px 40px;
-    max-width:100%;
     background-color:#EEC7DF;
-    font-size:20px;
     display:flex;
-    flex-direction:row;
-    flex-wrap: nowrap;
-    margin-top: 15rem;
-    margin-bottom: 15rem;
+    margin-top: 10rem;
     }
-    .yearlylesson{
-    width: 40%;
-    display:center;
-    justify-content:center;
-    padding:10px 40px 10px;
+
+
+    .yearly{
+      flex:33.33%;
+      padding: 5px;
     }
   
     .image2{
-      width: 50%;
-      height: 10%;
+      width: 30%;
+      height: 30%;
     }
+    
 
 
 
@@ -71,13 +56,6 @@
       background-color: #744737;
       color: white;
       text-decoration: none;
-      width: 10%;
-      top: 85%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      color: white;
       font-family: sans-serif;
       font-weight: bold;
-      font-size: 16px;
-      padding: 10px;
     }
