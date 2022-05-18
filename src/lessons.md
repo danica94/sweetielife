@@ -7,7 +7,7 @@ pageClass: home
 <main>
   <body>
   <div class="pastry-lessons">
-    <h2>START YOUR LESSON</h2>
+    <h1>START YOUR LESSON</h1>
   </div>
 <article class="lesson1">
 <div class="monthly">  
@@ -17,7 +17,7 @@ pageClass: home
       <p class="credit"><a href="https://wordpress.org/openverse/image/1efe8193-2cfa-4942-b93d-29e61d704001">Photo</a> by <a href="https://www.flickr.com/photos/36281822@N08">US Army Africa</a></p>
       </div>
     <div class="monthlylesson">
-    <h1>Montly Lesson Plan</h1>
+    <h2>Monthly Lesson Plan</h2>
     <p>The Monthly Lesson Plan is a monthly subcrisption that you can buy to unlock hidden special recipes, better your pastry making skills, and be given 1 on 1 lessons on how to prepare one of our listed pastries. On top of that, you will be taught a special recipe on a pastry that has not been published in our site yet. In total, you'll be learning how to perfectly make two delicious pastries over the course of the month. Insterested? Click the button below to get your monthly lesson plan now!</p>
         <a href="#" class="buybtn">BUY</a>
     </div>
