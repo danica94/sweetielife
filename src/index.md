@@ -4,7 +4,7 @@ layout: base.njk
 tags: navItem
 pageClass: home
 ---
-<main>
+
 <body>
   <article class="backgroundpink">
     <div class="hero">
@@ -87,4 +87,3 @@ pageClass: home
  <script src="script.js"></script>
 </body>
 
-</main>
