@@ -1,4 +1,14 @@
-  .lesson1{
+.pastry-lessons{
+  text-align: center;
+  margin-top: 5rem;
+} 
+ 
+ 
+ 
+ 
+ 
+ 
+ .lesson1{
   margin:0 auto;
   padding: 20px 40px 20px 40px;
   max-width:100%;
@@ -7,7 +17,9 @@
   display:flex;
   flex-direction:row;
   flex-wrap: nowrap;
+  margin-top: 5rem;
   }
+
   .monthlylesson{
   width: 40%;
   display:center;
@@ -18,10 +30,7 @@
   .image1{
     width: 50%;
     height: 10%;
-
   }
-
-
 
 
   
@@ -34,6 +43,8 @@
     display:flex;
     flex-direction:row;
     flex-wrap: nowrap;
+    margin-top: 15rem;
+    margin-bottom: 15rem;
     }
     .yearlylesson{
     width: 40%;
@@ -45,5 +56,28 @@
     .image2{
       width: 50%;
       height: 10%;
-  
+    }
+
+
+
+
+
+
+
+
+
+    .buybtn {
+      display: block;
+      background-color: #744737;
+      color: white;
+      text-decoration: none;
+      width: 10%;
+      top: 85%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: white;
+      font-family: sans-serif;
+      font-weight: bold;
+      font-size: 16px;
+      padding: 10px;
     }
