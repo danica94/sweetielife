@@ -8,20 +8,22 @@
  
  
  
- .lesson1{
+ .lessoncard1{
   background-color:#EEC7DF;
-  display:flex;
+    max-width: 1400px;
+    margin:0 auto;
+    display: grid;
+    grid-template-columns:1fr;
+  
   }
  
-  .monthly{
-    flex:33.33%;
-    padding: 5px;
+  .monthlylesson{
+    flex-wrap: wrap;
+   display:center;
+   justify-content:center;
+   padding:40px;
   }
 
-  .image1{
-    width: 30%;
-    height: 30%;
-  }
 
 
   
@@ -37,10 +39,6 @@
       padding: 5px;
     }
   
-    .image2{
-      width: 30%;
-      height: 30%;
-    }
     
 
 
