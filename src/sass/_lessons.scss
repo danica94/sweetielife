@@ -7,16 +7,55 @@
 .lesson1{
   display: flex;
   align-items: center;
+  justify-content: center;
+  background-color: #ffc6e8;
+  margin-bottom: 10rem;
 }
  
 img{
   max-width: 100%;
 } 
 
-.lesson1 > div{
-  flex-basis: 50%;
+.lessoncard1{
+  flex-basis: 200%;
 }
-    
+
+
+
+
+.monthly-text{
+  text-align: center;
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
+
+ 
+ 
+.yearly{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffc6e8;
+  margin-bottom: 10rem;
+}
+ 
+img{
+  max-width: 100%;
+} 
+
+.lessoncard2{
+  flex-basis: 300%;
+}
+
+
+
+
+.yearly-text{
+  text-align: center;
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
 
 
 
@@ -26,11 +65,16 @@ img{
 
 
 
-    .buybtn {
-      display: block;
-      background-color: #744737;
-      color: white;
-      text-decoration: none;
-      font-family: sans-serif;
-      font-weight: bold;
-    }
+.buybtn {
+  display: block;
+  background-color: #744737;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-weight: bold;
+  border-radius: 50px;
+  width: 100px;
+  height: 30px;
+  margin-left: 330px;
+}
