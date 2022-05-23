@@ -1,3 +1,12 @@
+*{ 
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -icab-box-sizing: border-box;
+  -khtml-box-sizing: border-box;
+  box-sizing: border-box;  }
+
 @media only screen and (max-width: 768px) {
   .hero{
    display:block;
