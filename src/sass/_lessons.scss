@@ -1,9 +1,17 @@
+//*Title of the page*//
 .pastry-lessons{
   text-align: center;
   margin-top: 5rem;
 } 
- 
- 
+
+
+
+
+
+
+
+//*Monthly Lessons*//
+
 .lesson1{
   display: flex;
   align-items: center;
@@ -21,8 +29,6 @@ img{
 }
 
 
-
-
 .monthly-text{
   text-align: center;
   margin-left: 3rem;
@@ -30,7 +36,18 @@ img{
 }
 
 
- 
+
+//*Monthly Lesson Media*//
+
+@media screen and (min-width: 1200px){
+
+}
+
+
+
+
+
+ //*Yearly Lesson*//
  
 .yearly{
   display: flex;
@@ -48,9 +65,6 @@ img{
   flex-basis: 300%;
 }
 
-
-
-
 .yearly-text{
   text-align: center;
   margin-left: 4rem;
@@ -63,7 +77,7 @@ img{
 
 
 
-
+//*Buy Button*//
 
 .buybtn {
   display: block;
