@@ -4,7 +4,10 @@
   margin-top: 5rem;
 } 
 
-
+.max1400{
+  max-width: 1400px;
+  margin: 0 auto;
+}
 
 
 
@@ -16,7 +19,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #ffc6e8;
+  // background-color: #ffc6e8;
   margin-bottom: 10rem;
 }
  
@@ -25,7 +28,7 @@ img{
 } 
 
 .lessoncard1{
-  flex-basis: 200%;
+  flex-basis: 195%;
 }
 
 
@@ -44,6 +47,10 @@ img{
 }
 
 
+@media screen and (min-width: 500px){
+
+}
+
 
 
 
@@ -53,7 +60,7 @@ img{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #ffc6e8;
+  // background-color: #ffc6e8;
   margin-bottom: 10rem;
 }
  
