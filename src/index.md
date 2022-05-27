@@ -34,21 +34,21 @@ pageClass: home
   <section class="container">
      <h1 class="title">Find Your Recipes</h1>
       <div class="home_container" >
-      <div class="card">
-        <h3>Macaron</h3 style="color:##FFC6E8;">
-        <img src="/images/s-m.jpg" alt="card2">
-         <p class="credit"><a href="https://www.flickr.com/photos/nora_prumier/33395060056/in/photolist-ST1pTw-rHcsLT-rdZu4f-VzNRFH-rpLYU1-CSW6vJ-2ehZ8s1-LGuZ4Y-yh1Tfh-Cah3EG-8RzMmG-SRxtGm-LKaKTh-rbqPoJ-Mx9Jjx-Pip4pY-Kijfo9-LU91So-EhKAAg-ENVs93-zbJvkS-BAiTZr-22oYcct-CpbDBR-22PbCDc-27iW3En-JTZwjR-8RYzK3-qUNcVS-GNUA88-WBZ1iH-vuWwz8-JhdxFr-GXTVoa-AH3okp-236KjLW-tyj6hY-vpCQhk-v7Hp4d-36ERNq-xfaYoH-215u3Y3-RgRZhN-y18iKq-BSvsb1-z8HHHf-UGzCMZ-qLpNtT-qvCoe4-VSCV4A">Photo</a> by <a href="https://www.flickr.com/photos/laurelquist/">Nora Prumier</a></p>
-      </div>
-      <div class="card">
-        <h3>Eclair</h3>
-        <img src="/images/s-eclairs.jpg" alt="card1">
-        <p class="credit"><a href="https://www.pexels.com/photo/frosted-eclairs-8365696/">Photo</a> by <a href="https://www.pexels.com/@69816215/">Анастасия</a></p>
-      </div>
-      <div class="card">
+        <div class="card"> <a href="/r-macaron">
+          <h3>Macaron</h3 style="color:##FFC6E8;">
+          <img src="/images/s-m.jpg" alt="card2">
+           <p class="credit"><a href="https://www.flickr.com/photos/nora_prumier/33395060056/in/photolist-ST1pTw-rHcsLT-rdZu4f-VzNRFH-rpLYU1-CSW6vJ-2ehZ8s1-LGuZ4Y-yh1Tfh-Cah3EG-8RzMmG-SRxtGm-LKaKTh-rbqPoJ-Mx9Jjx-Pip4pY-Kijfo9-LU91So-EhKAAg-ENVs93-zbJvkS-BAiTZr-22oYcct-CpbDBR-22PbCDc-27iW3En-JTZwjR-8RYzK3-qUNcVS-GNUA88-WBZ1iH-vuWwz8-JhdxFr-GXTVoa-AH3okp-236KjLW-tyj6hY-vpCQhk-v7Hp4d-36ERNq-xfaYoH-215u3Y3-RgRZhN-y18iKq-BSvsb1-z8HHHf-UGzCMZ-qLpNtT-qvCoe4-VSCV4A">Photo</a> by <a href="https://www.flickr.com/photos/laurelquist/">Nora Prumier</a></p>
+        </a></div>
+      <div class="card"><a href="/r-eclair">
+          <h3>Eclair</h3>
+          <img src="/images/s-eclairs.jpg" alt="card1">
+          <p class="credit"><a href="https://www.pexels.com/photo/frosted-eclairs-8365696/">Photo</a> by <a href="https://www.pexels.com/@69816215/">Анастасия</a></p>
+      </a></div>
+      <div class="card"><a href="/r-pie">
         <h3>Pie</h3>
         <img src="/images/s-pie2.jpg" alt="card3">
          <p class="credit"><a href="https://www.sugarandsoul.co/air-fryer-pumpkin-pie/">Photo</a> by <a href="https://www.sugarandsoul.co/">Sugarandsoul</a></p>
-      </div>
+      </a></div>
       <div class="card">
         <h3>Croissant</h3>
         <img src="/images/s-cro.jpg" alt="card3">
