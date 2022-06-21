@@ -8,22 +8,27 @@ pageClass: home
   <body>
   <section class="recipeherobanner">
   <div class="recipeimg">
-    <img src="/images/Macarons1.jpg" alt="img">
-    <p class="credit"><a href="https://www.flickr.com/photos/neelsandrine/22699901984/in/photolist-AzUW1q-ow8eFq-aNG5wR-4FNKjJ-9Zcpa2-2NLSjE-7GTum4-7aQGfC-7ERceF-7ERcnP-7ERcwT-b3JjUM-akp4eG-a5SoDy-csWgE9-7EV3uw-2iKVfc4-9jXyub-5ZqevQ-7ERbZ2-7ERc7c-7K8FEA-a2dYAE-a6xoaK-bsH1nd-7RmqvC-pNbJnf-9bg9fn-8MXEeW-7K4LJa-bkFrLo-9UPVyh-8XUFr-2iwGssx-9jXxoY-9jXzF1-dwEJs-dunAUE-7wKLwQ-9jUxcV-aciwAv-7ukAFA-bzowYg-7BQAAk-9jUymF-fCmL9X-9jUzhZ-duh1Hx-6yhVXA-9JWwfA">Photo</a> by <a href="https://www.flickr.com/photos/neelsandrine/">S@ndrine</a></p>
+    <img src="http://cloud.foodista.com/content/images/edbf3e54a24dce1b46e2ad9254cbf324d488d665_607x400.jpg" alt="img">
+    <p class="credit"><a href="https://www.foodista.com/profile/BY8ZF7CD/ping">Ping</a></p>
     </div>
     <div class="recipeheretext">
-    <h1> Marcaron</h1>
-    <p>This is the quintessential macaron (NOT macaroon) recipe. I am a baker's apprentice, and after much trial and error, we (the baker and I) finally perfected the technique. We decided to share with you all. Pipe your choice of filling on a cookie and sandwich another cookie on top. These are like cloud cookie sandwiches and are delicious if done correctly. If you want to do it the super-easy way, just fill with your favorite flavor of frosting. Enjoy!</p>
+    <h1>Macarudolph (Red Velvet Macarons)</h1>
+    <p>A macaron is a sweet meringue-based confection made with egg white, icing sugar, granulated sugar, almond meal, and food colouring.</p>
+    <p>The macaron is traditionally held to have been introduced in France by the Italian chef of queen Catherine de Medici during the Renaissance. Since the 19th century, a typical Parisian-style macaron is presented with a ganache, buttercream or jam filling sandwiched between two such cookies, akin to a sandwich cookie. The confection is characterized by a smooth squared top, a ruffled circumference—referred to as the "crown" or "foot" (or "pied")—and a flat base. It is mildly moist and easily melts in the mouth. Macarons can be found in a wide variety of flavours that range from traditional (raspberry, chocolate) to unusual (foie gras, matcha)</p>
+    <p class="source">Source <a href="https://en.wikipedia.org/wiki/Macaron">Wikipedia</a></p>
     </div>
   </section>
 <!-- steps-->
 <section class="step">
     <div class="stepdescription">
       <h2>Ingredients</h2>
-      <p>3 egg whites</p>
-      <p>¼ cup white sugar</p>
-      <p>1 ⅔ cups confectioners' sugar</p>
-      <p>1 cup finely ground almonds</p>
+      <p>50 grams egg white (aged overnight)</p>
+      <p>40 grams caster sugar</p>
+      <p>3 drops lemon juice/ a pinch of salt/cream of tartar</p>
+      <p>65 grams almond meal</p>
+      <p>80 grams powdered sugar</p>
+      <p>15 grams cocoa powder</p>
+      <p>1/8 teaspoon red colored gel</p>
     </div>
     <div class="recipeimg">
       <img src="/images/Macarons2.jpg" alt="Macaron">
@@ -35,29 +40,29 @@ pageClass: home
       <h2>Directions</h2>
       <div class="steplayout">
       <h3 class="w30">Step 1</h3>
-      <p class="w70">Line a baking sheet with a silicone baking mat.</p>
+      <p class="w70">Combine powdered sugar, almond meal and cocoa powder in a food processor and give it a few quick buzzes to mix evenly. Sift.</p>
       </div>
       <div class="steplayout">
        <h3 class="w30" >Step 2</h3>
-       <p class="w50">Beat egg whites in the bowl of a stand mixer fitted with a whisk attachment until whites are foamy; beat in white sugar and continue beating until egg whites are glossy, fluffy, and hold soft peaks. Sift confectioners' sugar and ground almonds in a separate bowl and quickly fold the almond mixture into the egg whites, about 30 strokes.</p>
+       <p class="w50">Whisk egg white with 2 - 3 drops of lemon juice until soft peaks form. Add in caster sugar in 3 lots, beating well after each addition. Beat on high until stiff peaks stage.</p>
       </div>
       <div class="steplayout">
        <h3 class="w30">Step 3</h3>
-       <p class="w50">Spoon a small amount of batter into a plastic bag with a small corner cut off and pipe a test disk of batter, about 1 1/2 inches in diameter, onto prepared baking sheet. If the disk of batter holds a peak instead of flattening immediately, gently fold the batter a few more times and retest.</p>
+       <p class="w50">Fold in sifted mixture and color gel. Do not overmix. (It's been recommended to have no more than 40 folds).</p>
       </div>
       <div class="steplayout">
          <h3 class="w30">Step 4</h3>
-         <p class="w50">When batter is mixed enough to flatten immediately into an even disk, spoon into a pastry bag fitted with a plain round tip. Pipe the batter onto the baking sheet in rounds, leaving space between the disks. Let the piped cookies stand out at room temperature until they form a hard skin on top, about 1 hour.</p>
+         <p class="w50">Line trays with parchment or baking mat.</p>
         </div>
       <div class="steplayout">
           <h3 class="w30">Step 5</h3>
-          <p class="w70">Preheat oven to 285 degrees F (140 degrees C).</p>
+          <p class="w70">Fill piping bags. (I didn't use a piping nozzle. I simply snipped off about 2 cm from the tip).</p>
       </div>
       <div class="steplayout">
        <h3 class="w30">Step 6</h3>
-       <p class="w70">Bake cookies until set but not browned, about 10 minutes; let cookies cool completely before filling.</p>
+       <p class="w70">Pipe even rounds of about 1 1/2 - 2 cm in diameter; it will spread a little.</p>
        </div>
-    <div class="credit">This text is from the <a href="https://www.allrecipes.com/recipe/223234/macaron-french-macaroon/">Allrecipes Article about Macaron (French Macaroon).</a></div>
+    <div class="credit">This text is from <a href="https://www.foodista.com/recipe/85SRWY4D/macarudolph-red-velvet-macarons">Foodista</a>.</div>
     </section>
   
   </body>
